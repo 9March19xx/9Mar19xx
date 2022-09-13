@@ -1,0 +1,11 @@
+---
+title: "My new post"
+author: "KS"
+date: "2022-09-12"
+categories: [thoughts]
+image: "reunite992022.jpg"
+---
+
+Friendship has never end.
+
+ลองเขียนเป็นภาษาไทยดู สรุปว่าเขียนได้
